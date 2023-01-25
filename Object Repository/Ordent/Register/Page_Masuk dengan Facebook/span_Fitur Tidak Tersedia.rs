@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Fitur Tidak Tersedia</name>
+   <tag></tag>
+   <elementGuidId>91efb378-4ac3-45b2-9d53-660021fa1ec5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.x193iq5w.xeuugli.x13faqbe.x1vvkbs.x1xmvt09.x1603h9y.x1u7k74.x1xlr1w8.xi81zsa</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1e37d493-df55-40e7-ba38-f6c5c5e171eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>x193iq5w xeuugli x13faqbe x1vvkbs x1xmvt09 x1603h9y x1u7k74 x1xlr1w8 xi81zsa</value>
+      <webElementGuid>3132601e-e2d8-46d4-ab45-1f857ac65ba5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Fitur Tidak Tersedia</value>
+      <webElementGuid>10f74c15-08dd-4bef-81cb-fa34b0746428</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mount_0_0_Je&quot;)/div[1]/div[1]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z&quot;]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z&quot;]/div[@class=&quot;x78zum5 xdt5ytf x1n2onr6 x1ja2u2z&quot;]/div[@class=&quot;x78zum5 xdt5ytf x1n2onr6&quot;]/div[@class=&quot;x78zum5 xdt5ytf x1n2onr6 xat3117 xxzkxad&quot;]/div[@class=&quot;x6s0dn4 x443n21 x78zum5 xl56j7k xt3ofjt&quot;]/div[@class=&quot;x1lq5wgf xgqcy7u x30kzoy x9jhf4c xofhs1l x14hiurz x78zum5 xw2csxc x1odjw0f x1m7g9aj x1qu1lpg&quot;]/div[@class=&quot;x14hiurz x78zum5 xdt5ytf x1iyjqo2 xexx8yu x1pi30zi x18d9i69 x1swvt13 x2b8uid&quot;]/div[@class=&quot;xrlsmeg x6prxxf xkrivgy x1gryazu&quot;]/div[@class=&quot;xwxc41k&quot;]/div[@class=&quot;x78zum5 xdt5ytf xz62fqu x16ldp7u&quot;]/div[@class=&quot;xu06os2 x1ok221b&quot;]/span[@class=&quot;x193iq5w xeuugli x13faqbe x1vvkbs x1xmvt09 x1lliihq x1s928wv xhkezso x1gmr53x x1cpjm7i x1fgarty x1943h6x xudqn12 x3x7a5m x6prxxf xvq8zen xo1l8bm xzsf02u x2b8uid&quot;]/div[@class=&quot;xsag5q8&quot;]/span[@class=&quot;x193iq5w xeuugli x13faqbe x1vvkbs x1xmvt09 x1603h9y x1u7k74 x1xlr1w8 xi81zsa&quot;]</value>
+      <webElementGuid>9206dfa7-ee96-4048-a73f-c035bcb7ce8d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mount_0_0_Je']/div/div/div/div/div/div/div/div/div/div/div[3]/div[2]/div/div/span/div/span</value>
+      <webElementGuid>072a9431-6f9f-415c-aca1-9b2116c17104</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Facebook Login saat ini tidak tersedia untuk aplikasi ini.'])[1]/preceding::span[1]</value>
+      <webElementGuid>ae06ef7a-2d50-4b3a-a6b4-83e4f182f7c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[1]/preceding::span[2]</value>
+      <webElementGuid>75d61a84-fa68-47b2-9b03-316617964967</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Fitur Tidak Tersedia']/parent::*</value>
+      <webElementGuid>21b921b6-e6ad-471d-b982-63c1d46e7dd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div/span</value>
+      <webElementGuid>b37bf6db-0781-4b30-bbc4-5a21d937242c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Fitur Tidak Tersedia' or . = 'Fitur Tidak Tersedia')]</value>
+      <webElementGuid>8e5a1331-fdf1-4f76-affa-280912bbae47</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

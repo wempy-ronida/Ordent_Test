@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Email harus mengandung</name>
+   <tag></tag>
+   <elementGuidId>636c2226-2af3-43f6-95e4-089a986405a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.text-xxs.mb-2.text-red-secondary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[4]/div[2]/div/form/div[2]/label/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>beae40c5-7e47-4460-8ccc-39e354ab753f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-xxs mb-2 text-red-secondary</value>
+      <webElementGuid>e5b89c72-38fa-422b-aa9f-3bbf843aac3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Email harus mengandung @</value>
+      <webElementGuid>4c619b31-44c4-4570-a812-76ba635c76ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;bg-blue-1 flex flex-col min-h-screen text-white font-montserrat&quot;]/div[@class=&quot;vm--container&quot;]/div[@class=&quot;vm--modal modal-classes mx-auto&quot;]/div[@class=&quot;flex flex-col h-full overflow-auto rounded-2xl desktop:w-fit-content bg-blue-1 p-8 mobile:w-full&quot;]/form[1]/div[@class=&quot;mb-4&quot;]/label[1]/div[@class=&quot;text-xxs mb-2 text-red-secondary&quot;]</value>
+      <webElementGuid>cd91ee97-178a-4b80-8a79-80e622b651ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a043f014-6c50-4a66-8d31-e13276d9bebc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-xxs mb-2 text-red-secondary</value>
+      <webElementGuid>bcedf224-cee6-4254-9cc6-8022a2bce0c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Email harus mengandung @</value>
+      <webElementGuid>e877b4b2-014f-4542-8deb-a94824af5ed0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;bg-blue-1 flex flex-col min-h-screen text-white font-montserrat&quot;]/div[@class=&quot;vm--container&quot;]/div[@class=&quot;vm--modal modal-classes mx-auto&quot;]/div[@class=&quot;flex flex-col h-full overflow-auto rounded-2xl desktop:w-fit-content bg-blue-1 p-8 mobile:w-full&quot;]/form[1]/div[@class=&quot;mb-4&quot;]/label[1]/div[@class=&quot;text-xxs mb-2 text-red-secondary&quot;]</value>
+      <webElementGuid>abcd9973-7844-4eaa-b7dc-cae9586980c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>241d59ba-caca-4b84-a53c-3b4433990b7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-xxs mb-2 text-red-secondary</value>
+      <webElementGuid>83207fc5-aa01-4371-9c87-dddd58afbea1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Email harus mengandung @</value>
+      <webElementGuid>35630b73-e5ae-4802-b280-092583d68b8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;bg-blue-1 flex flex-col min-h-screen text-white font-montserrat&quot;]/div[@class=&quot;vm--container&quot;]/div[@class=&quot;vm--modal modal-classes mx-auto&quot;]/div[@class=&quot;flex flex-col h-full overflow-auto rounded-2xl desktop:w-fit-content bg-blue-1 p-8 mobile:w-full&quot;]/form[1]/div[@class=&quot;mb-4&quot;]/label[1]/div[@class=&quot;text-xxs mb-2 text-red-secondary&quot;]</value>
+      <webElementGuid>18f04b2c-d99b-494f-a5f5-1013c6d85574</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0ffb26d6-4ab5-43c7-b201-faa060ca079d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-xxs mb-2 text-red-secondary</value>
+      <webElementGuid>315076ca-29e0-46a9-b504-3d2aa58ae9ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Email harus mengandung @</value>
+      <webElementGuid>571e96d6-33cb-4063-8c54-a50eb70af4cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;bg-blue-1 flex flex-col min-h-screen text-white font-montserrat&quot;]/div[@class=&quot;vm--container&quot;]/div[@class=&quot;vm--modal modal-classes mx-auto&quot;]/div[@class=&quot;flex flex-col h-full overflow-auto rounded-2xl desktop:w-fit-content bg-blue-1 p-8 mobile:w-full&quot;]/form[1]/div[@class=&quot;mb-4&quot;]/label[1]/div[@class=&quot;text-xxs mb-2 text-red-secondary&quot;]</value>
+      <webElementGuid>e2811f39-602a-47b0-bd37-29d43bbbf2fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4ff0e924-960c-42aa-8722-7020c118f8b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-xxs mb-2 text-red-secondary</value>
+      <webElementGuid>7094485b-bdbe-41c2-bbd6-98782d4dab9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Email harus mengandung @</value>
+      <webElementGuid>2f37da52-ad50-4cc9-9550-444f061ba720</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;bg-blue-1 flex flex-col min-h-screen text-white font-montserrat&quot;]/div[@class=&quot;vm--container&quot;]/div[@class=&quot;vm--modal modal-classes mx-auto&quot;]/div[@class=&quot;flex flex-col h-full overflow-auto rounded-2xl desktop:w-fit-content bg-blue-1 p-8 mobile:w-full&quot;]/form[1]/div[@class=&quot;mb-4&quot;]/label[1]/div[@class=&quot;text-xxs mb-2 text-red-secondary&quot;]</value>
+      <webElementGuid>a274babc-3526-4660-956c-15a2c0859614</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[4]/div[2]/div/form/div[2]/label/div[3]</value>
+      <webElementGuid>b5942ce5-c716-4f56-ae82-ae2a6bad2cbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::div[3]</value>
+      <webElementGuid>0ecee0a2-b418-42a8-8ffc-704c8c3c832c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/preceding::div[1]</value>
+      <webElementGuid>a364abfc-6dab-4e1d-bfbb-3f4315fa5443</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Email harus mengandung @']/parent::*</value>
+      <webElementGuid>c29be5d0-8303-4b57-b2df-179f29778fe9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/div[3]</value>
+      <webElementGuid>6cd39fb6-0c14-4643-b363-d242a25dea0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Email harus mengandung @' or . = 'Email harus mengandung @')]</value>
+      <webElementGuid>cc272344-a8b0-4c4c-9ff1-1a6e0791ff6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/label/div[3]</value>
+      <webElementGuid>bcd6a58b-da29-46a3-8d51-a111fae8cf76</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Kata sandi harus mengandung 1 angka, 1 _506b07</name>
+   <tag></tag>
+   <elementGuidId>56487a45-3afa-44cf-b994-a1e4417d6ff4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.text-xxs.mb-2.text-red-secondary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[4]/div[2]/div/form/div[4]/label/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>84fb2b08-6077-4ffb-b183-ea685cda3465</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-xxs mb-2 text-red-secondary</value>
+      <webElementGuid>5db669c2-1306-45d7-b3fe-285e28b52d6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kata sandi harus mengandung 1 angka, 1 huruf besar dan 1 huruf kecil.</value>
+      <webElementGuid>a2c051b9-19b8-49db-be5e-f13e13dc82be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;bg-blue-1 flex flex-col min-h-screen text-white font-montserrat&quot;]/div[@class=&quot;vm--container&quot;]/div[@class=&quot;vm--modal modal-classes mx-auto&quot;]/div[@class=&quot;flex flex-col h-full overflow-auto rounded-2xl desktop:w-fit-content bg-blue-1 p-8 mobile:w-full&quot;]/form[1]/div[@class=&quot;mb-4&quot;]/label[1]/div[@class=&quot;text-xxs mb-2 text-red-secondary&quot;]</value>
+      <webElementGuid>84588991-eb82-4073-83e4-e7cf60617a8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4916fba1-70fd-4911-93fc-0d6c63a0e860</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-xxs mb-2 text-red-secondary</value>
+      <webElementGuid>8626ea75-9238-4c8b-8639-baaf2ef94ae2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kata sandi harus mengandung 1 angka, 1 huruf besar dan 1 huruf kecil.</value>
+      <webElementGuid>e61ec177-facb-48a4-8564-be77bc40f804</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;bg-blue-1 flex flex-col min-h-screen text-white font-montserrat&quot;]/div[@class=&quot;vm--container&quot;]/div[@class=&quot;vm--modal modal-classes mx-auto&quot;]/div[@class=&quot;flex flex-col h-full overflow-auto rounded-2xl desktop:w-fit-content bg-blue-1 p-8 mobile:w-full&quot;]/form[1]/div[@class=&quot;mb-4&quot;]/label[1]/div[@class=&quot;text-xxs mb-2 text-red-secondary&quot;]</value>
+      <webElementGuid>a560177c-8fe3-4ec2-a001-094db9adcb41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>80e1c176-45bb-4b36-8f68-aa8f63286f9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-xxs mb-2 text-red-secondary</value>
+      <webElementGuid>e307a8e5-e284-4a61-8d38-3016039ab53d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kata sandi harus mengandung 1 angka, 1 huruf besar dan 1 huruf kecil.</value>
+      <webElementGuid>17a61124-11c5-4483-a68f-17c854eab911</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;bg-blue-1 flex flex-col min-h-screen text-white font-montserrat&quot;]/div[@class=&quot;vm--container&quot;]/div[@class=&quot;vm--modal modal-classes mx-auto&quot;]/div[@class=&quot;flex flex-col h-full overflow-auto rounded-2xl desktop:w-fit-content bg-blue-1 p-8 mobile:w-full&quot;]/form[1]/div[@class=&quot;mb-4&quot;]/label[1]/div[@class=&quot;text-xxs mb-2 text-red-secondary&quot;]</value>
+      <webElementGuid>2ff5eec2-4fe6-4a7c-869a-9a6e5e4c4cdc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e2ec722a-42c2-4cf4-a2ac-75c4d4767dbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-xxs mb-2 text-red-secondary</value>
+      <webElementGuid>5150b051-9f9d-48cf-be91-ffa3dfcbdae1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kata sandi harus mengandung 1 angka, 1 huruf besar dan 1 huruf kecil.</value>
+      <webElementGuid>1671188c-5577-490e-8ca1-377b0a111ca2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;bg-blue-1 flex flex-col min-h-screen text-white font-montserrat&quot;]/div[@class=&quot;vm--container&quot;]/div[@class=&quot;vm--modal modal-classes mx-auto&quot;]/div[@class=&quot;flex flex-col h-full overflow-auto rounded-2xl desktop:w-fit-content bg-blue-1 p-8 mobile:w-full&quot;]/form[1]/div[@class=&quot;mb-4&quot;]/label[1]/div[@class=&quot;text-xxs mb-2 text-red-secondary&quot;]</value>
+      <webElementGuid>9fe5fc6c-7592-4420-aab8-377f56ac87f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a323fe0d-ead1-48ce-a1de-a71018e357fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-xxs mb-2 text-red-secondary</value>
+      <webElementGuid>415aaa07-bc3b-421d-bf52-a96fd0b8f70f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kata sandi harus mengandung 1 angka, 1 huruf besar dan 1 huruf kecil.</value>
+      <webElementGuid>4bbd62c9-7e07-4dd4-82a0-c05d43dd749d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;bg-blue-1 flex flex-col min-h-screen text-white font-montserrat&quot;]/div[@class=&quot;vm--container&quot;]/div[@class=&quot;vm--modal modal-classes mx-auto&quot;]/div[@class=&quot;flex flex-col h-full overflow-auto rounded-2xl desktop:w-fit-content bg-blue-1 p-8 mobile:w-full&quot;]/form[1]/div[@class=&quot;mb-4&quot;]/label[1]/div[@class=&quot;text-xxs mb-2 text-red-secondary&quot;]</value>
+      <webElementGuid>3c5dd01c-096d-40bb-8628-d4ff11e2cc98</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[4]/div[2]/div/form/div[4]/label/div[3]</value>
+      <webElementGuid>42c24f03-c47e-4a60-a5c4-39400ebf2f96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::div[2]</value>
+      <webElementGuid>50e381a9-f59a-4977-b740-3618b778aa5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Min. 8 karakter berupa kombinasi angka, huruf besar dan huruf kecil'])[1]/preceding::div[1]</value>
+      <webElementGuid>57dda351-5f9a-417f-af91-ed22394ca4fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lanjutkan'])[1]/preceding::div[2]</value>
+      <webElementGuid>3047e10c-993f-4dea-aaf1-fe419bbc75d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kata sandi harus mengandung 1 angka, 1 huruf besar dan 1 huruf kecil.']/parent::*</value>
+      <webElementGuid>0bef0360-80ef-447e-b5a0-79582b34d51f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/div[3]</value>
+      <webElementGuid>ee0a2eb0-5936-427c-beb8-fedaa9899fe4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Kata sandi harus mengandung 1 angka, 1 huruf besar dan 1 huruf kecil.' or . = 'Kata sandi harus mengandung 1 angka, 1 huruf besar dan 1 huruf kecil.')]</value>
+      <webElementGuid>07dea42b-347e-48b2-a731-8c3587a47f97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/label/div[3]</value>
+      <webElementGuid>082a06b8-2863-40f0-bafe-66bfc083cf35</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

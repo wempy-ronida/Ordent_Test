@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_OK</name>
+   <tag></tag>
+   <elementGuidId>00f5d42c-b519-4a6c-a236-05eb18bb7c38</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.x1n2onr6.x1ja2u2z.x78zum5.x2lah0s.xl56j7k.x6s0dn4.xozqiw3.x1q0g3np.xi112ho.x17zwfj4.x585lrc.x1403ito.x972fbf.xcfux6l.x1qhh985.xm0m39n.x9f619.xn6708d.x1ye3gou.xtvsq51.x1fq8qgq</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mount_0_0_Je']/div/div/div/div/div/div/div/div/div/div/div[3]/div[3]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0a402b8a-02a3-4155-b7c7-9ef2e9b9823c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>x1n2onr6 x1ja2u2z x78zum5 x2lah0s xl56j7k x6s0dn4 xozqiw3 x1q0g3np xi112ho x17zwfj4 x585lrc x1403ito x972fbf xcfux6l x1qhh985 xm0m39n x9f619 xn6708d x1ye3gou xtvsq51 x1fq8qgq</value>
+      <webElementGuid>0be993ed-b618-4c60-bcd8-8f51436c6d69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>OK</value>
+      <webElementGuid>7f2ec336-6139-48d2-96e0-f4b4887a4539</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mount_0_0_Je&quot;)/div[1]/div[1]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z&quot;]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z&quot;]/div[@class=&quot;x78zum5 xdt5ytf x1n2onr6 x1ja2u2z&quot;]/div[@class=&quot;x78zum5 xdt5ytf x1n2onr6&quot;]/div[@class=&quot;x78zum5 xdt5ytf x1n2onr6 xat3117 xxzkxad&quot;]/div[@class=&quot;x6s0dn4 x443n21 x78zum5 xl56j7k xt3ofjt&quot;]/div[@class=&quot;x1lq5wgf xgqcy7u x30kzoy x9jhf4c xofhs1l x14hiurz x78zum5 xw2csxc x1odjw0f x1m7g9aj x1qu1lpg&quot;]/div[@class=&quot;x14hiurz x78zum5 xdt5ytf x1iyjqo2 xexx8yu x1pi30zi x18d9i69 x1swvt13 x2b8uid&quot;]/div[@class=&quot;xrlsmeg x6prxxf xkrivgy x1gryazu&quot;]/div[@class=&quot;x6s0dn4 x78zum5 xdt5ytf&quot;]/div[@class=&quot;xeq5yr9&quot;]/div[@class=&quot;x1i10hfl xjbqb8w x6umtig x1b1mbwd xaqea5y xav7gou x1ypdohk xe8uvvx xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x16tdsg8 x1hl2dhg xggy1nq x1o1ewxj x3x9cwd x1e5q0jg x13rtm0m x87ps6o x1lku1pv x1a2a7pz x9f619 x3nfvp2 xdt5ytf xl56j7k x1n2onr6 xh8yej3&quot;]/div[@class=&quot;x1n2onr6 x1ja2u2z x78zum5 x2lah0s xl56j7k x6s0dn4 xozqiw3 x1q0g3np xi112ho x17zwfj4 x585lrc x1403ito x972fbf xcfux6l x1qhh985 xm0m39n x9f619 xn6708d x1ye3gou xtvsq51 x1fq8qgq&quot;]</value>
+      <webElementGuid>9ea2ccd1-3f4b-44b2-b156-1e4709616aa3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mount_0_0_Je']/div/div/div/div/div/div/div/div/div/div/div[3]/div[3]/div/div/div</value>
+      <webElementGuid>8993490e-d0be-468e-ae94-740c65b0b03a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Facebook Login saat ini tidak tersedia untuk aplikasi ini.'])[1]/following::div[4]</value>
+      <webElementGuid>4e633ae3-29b3-40c2-9c7d-134117cb99eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fitur Tidak Tersedia'])[1]/following::div[4]</value>
+      <webElementGuid>8ec67fc0-fd74-4eeb-8b96-407b0d530233</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]/div/div/div</value>
+      <webElementGuid>d4f7780f-6836-4de2-a7c0-2e73794864e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'OK' or . = 'OK')]</value>
+      <webElementGuid>36e43e04-35dc-4f4f-aa6f-5298bb0cea04</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

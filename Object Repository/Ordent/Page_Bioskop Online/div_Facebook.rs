@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Facebook</name>
+   <tag></tag>
+   <elementGuidId>8bf4a9fc-7917-4c9f-b2c5-525e405e558e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[4]/div[2]/div/div[2]/button[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3971a7a6-eaa4-4ebb-91a3-f2d040388978</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mr-auto text-white</value>
+      <webElementGuid>6480329a-947d-4d45-a180-d5289862ec10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Facebook</value>
+      <webElementGuid>fd74a0e5-ec4d-4589-a8d8-1599aae590ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;bg-blue-1 flex flex-col min-h-screen text-white font-montserrat&quot;]/div[@class=&quot;vm--container&quot;]/div[@class=&quot;vm--modal modal-classes full-height mx-auto&quot;]/div[@class=&quot;text-white layout-login-wrapper overflow-auto&quot;]/div[@class=&quot;grid grid-cols-2 gap-4&quot;]/button[@class=&quot;flex items-center px-3 py-2 rounded-full hover:bg-blue-2&quot;]/div[@class=&quot;mr-auto text-white&quot;]</value>
+      <webElementGuid>bde9c75d-f16b-4b88-8f40-4418c7555851</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[4]/div[2]/div/div[2]/button[2]/div</value>
+      <webElementGuid>0aa20c83-77b9-4532-a6e0-80d48f895a7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Google'])[1]/following::div[1]</value>
+      <webElementGuid>549b859b-e338-4015-8629-6b999d203773</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk dengan'])[1]/following::div[3]</value>
+      <webElementGuid>36fc21d9-2faa-4736-8dc5-427b30f067f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Atau'])[1]/preceding::div[1]</value>
+      <webElementGuid>51499c14-3966-43a7-b7ca-e46413d0d762</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='✕'])[1]/preceding::div[2]</value>
+      <webElementGuid>e27d577b-3d37-427a-8da3-aec9a77e4116</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/div</value>
+      <webElementGuid>f8a847cb-3508-4517-b45b-be7198d04fea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Facebook' or . = 'Facebook')]</value>
+      <webElementGuid>4bd052bf-b011-47fa-a4cd-2858db99ede7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Masuk</name>
+   <tag></tag>
+   <elementGuidId>c6a9cafb-d325-4fe7-b082-123a4f69e8c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[4]/div[2]/div/form/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ea180842-c9e1-4fc8-a2b6-516065f27cd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-36 mobile:w-24 mobile:py-1 flex items-center justify-center desktop:py-3 py-1 w-full desktop:text-lg mobile:w-full bg-blue-4 text-blue-1 text-button </value>
+      <webElementGuid>f6aa6758-2c04-46ad-8dce-a446d83979be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Masuk </value>
+      <webElementGuid>5f76f682-9028-47e3-9a71-606ba2ede3bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;bg-blue-1 flex flex-col min-h-screen text-white font-montserrat&quot;]/div[@class=&quot;vm--container&quot;]/div[@class=&quot;vm--modal modal-classes full-height mx-auto&quot;]/div[@class=&quot;text-white layout-login-wrapper overflow-auto&quot;]/form[@class=&quot;mb-6&quot;]/button[@class=&quot;w-36 mobile:w-24 mobile:py-1 flex items-center justify-center desktop:py-3 py-1 w-full desktop:text-lg mobile:w-full bg-blue-4 text-blue-1 text-button&quot;]</value>
+      <webElementGuid>bf802d4b-5da5-4cc8-a3a1-0fbd88db8890</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[4]/div[2]/div/form/button</value>
+      <webElementGuid>977e92c6-a2a1-40f6-9527-a43e3606d32d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lupa Kata Sandi'])[1]/following::button[1]</value>
+      <webElementGuid>b3ed6a6a-f873-4c1f-8831-1b6eac65d4ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='✕'])[1]/following::button[1]</value>
+      <webElementGuid>0b7d84fb-6834-4013-ad7a-d5189af3434b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/button</value>
+      <webElementGuid>015ad4b9-2c68-4c7a-b5c7-4da77d6af6e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Masuk ' or . = ' Masuk ')]</value>
+      <webElementGuid>268b367a-6ad3-4bd7-8e3a-0de4a8686d7a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login menggunakan Google</name>
+   <tag>Login</tag>
+   <comment></comment>
+   <testCaseGuid>e87ead4d-4db0-4f49-914e-d976c7b6722f</testCaseGuid>
+</TestCaseEntity>

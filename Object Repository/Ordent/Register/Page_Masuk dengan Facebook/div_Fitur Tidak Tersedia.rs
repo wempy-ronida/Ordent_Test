@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Fitur Tidak Tersedia</name>
+   <tag></tag>
+   <elementGuidId>a42045fc-4a7d-4f6f-8ca7-906e0a17ac19</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.xsag5q8</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mount_0_0_LE']/div/div/div/div/div/div/div/div/div/div/div[3]/div[2]/div/div/span/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f2e72c84-a70b-4be5-b0f6-251dd069b105</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>xsag5q8</value>
+      <webElementGuid>451fc2d8-af17-4389-bc3f-a4e883d45bba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Fitur Tidak Tersedia</value>
+      <webElementGuid>184f3ec1-110f-48b2-be9c-49d5f6e13947</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mount_0_0_LE&quot;)/div[1]/div[1]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z&quot;]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z&quot;]/div[@class=&quot;x78zum5 xdt5ytf x1n2onr6 x1ja2u2z&quot;]/div[@class=&quot;x78zum5 xdt5ytf x1n2onr6&quot;]/div[@class=&quot;x78zum5 xdt5ytf x1n2onr6 xat3117 xxzkxad&quot;]/div[@class=&quot;x6s0dn4 x443n21 x78zum5 xl56j7k xt3ofjt&quot;]/div[@class=&quot;x1lq5wgf xgqcy7u x30kzoy x9jhf4c xofhs1l x14hiurz x78zum5 xw2csxc x1odjw0f x1m7g9aj x1qu1lpg&quot;]/div[@class=&quot;x14hiurz x78zum5 xdt5ytf x1iyjqo2 xexx8yu x1pi30zi x18d9i69 x1swvt13 x2b8uid&quot;]/div[@class=&quot;xrlsmeg x6prxxf xkrivgy x1gryazu&quot;]/div[@class=&quot;xwxc41k&quot;]/div[@class=&quot;x78zum5 xdt5ytf xz62fqu x16ldp7u&quot;]/div[@class=&quot;xu06os2 x1ok221b&quot;]/span[@class=&quot;x193iq5w xeuugli x13faqbe x1vvkbs x1xmvt09 x1lliihq x1s928wv xhkezso x1gmr53x x1cpjm7i x1fgarty x1943h6x xudqn12 x3x7a5m x6prxxf xvq8zen xo1l8bm xzsf02u x2b8uid&quot;]/div[@class=&quot;xsag5q8&quot;]</value>
+      <webElementGuid>b7a65a6d-7d60-4688-a4c9-73b1a68b9c5b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mount_0_0_LE']/div/div/div/div/div/div/div/div/div/div/div[3]/div[2]/div/div/span/div</value>
+      <webElementGuid>ce4ecd39-5364-4f27-b287-875e621ebb8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Facebook Login saat ini tidak tersedia untuk aplikasi ini.'])[1]/preceding::div[1]</value>
+      <webElementGuid>67e4a03f-512e-47b0-8d0b-3eb752fcd8c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div</value>
+      <webElementGuid>8ba7d6de-0360-4b95-b480-90f7d7ed91e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Fitur Tidak Tersedia' or . = 'Fitur Tidak Tersedia')]</value>
+      <webElementGuid>9c6d927e-1f48-4995-83dd-bd8ad7fba306</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

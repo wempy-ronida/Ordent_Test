@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Kembali ke Halaman Utama</name>
+   <tag></tag>
+   <elementGuidId>33e8e8ac-40ee-4ebe-af46-749d0fdae923</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[2]/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>dfb7522c-c954-4fd8-8733-ec98b70c2ac3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kembali ke Halaman Utama</value>
+      <webElementGuid>f46f8e0a-163c-4b27-93a3-90a6c2c11e2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;bg-blue-1 flex flex-col min-h-screen text-white font-montserrat&quot;]/div[@class=&quot;flex-1 flex flex-col pb-24&quot;]/div[@class=&quot;flex items-center justify-center w-screen flex-1&quot;]/div[@class=&quot;flex flex-col items-center&quot;]/div[2]</value>
+      <webElementGuid>d323b0d8-ee5f-4abb-be77-bbcb832b57fd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[2]/div/div/div[2]</value>
+      <webElementGuid>b00e2b16-7d17-445c-b2e4-ad358249e17f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Akses Token tidak boleh kosong.'])[1]/following::div[2]</value>
+      <webElementGuid>69cccd65-d317-4f58-b802-d5b9e3f49ece</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[1]/following::div[8]</value>
+      <webElementGuid>0c9fe5a3-7b27-481c-ad37-1ea01191e7b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pusat Bantuan'])[1]/preceding::div[2]</value>
+      <webElementGuid>7a49be13-3862-4ee4-9dd3-7c6f25b3d0de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]</value>
+      <webElementGuid>44777aa6-4670-4c21-89a5-785340af07ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Kembali ke Halaman Utama' or . = 'Kembali ke Halaman Utama')]</value>
+      <webElementGuid>51308441-ad1f-454a-88db-6b6ca29c1d76</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

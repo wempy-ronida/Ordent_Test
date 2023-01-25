@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Google</name>
+   <tag></tag>
+   <elementGuidId>164d0556-54da-48bf-b73f-3c68b39f8bc2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.mr-auto.text-white</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[4]/div[2]/div/div[2]/button/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5a982f80-96ed-4998-8dd6-3e0635a209c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mr-auto text-white</value>
+      <webElementGuid>23c57293-cc6a-49cc-b06c-8017e9e36302</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Google</value>
+      <webElementGuid>46c5b833-bd7d-4048-877f-41b7f180cd38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;bg-blue-1 flex flex-col min-h-screen text-white font-montserrat&quot;]/div[@class=&quot;vm--container&quot;]/div[@class=&quot;vm--modal modal-classes full-height mx-auto&quot;]/div[@class=&quot;text-white layout-login-wrapper overflow-auto&quot;]/div[@class=&quot;grid grid-cols-2 gap-4&quot;]/button[@class=&quot;flex items-center px-3 py-2 rounded-full hover:bg-blue-2&quot;]/div[@class=&quot;mr-auto text-white&quot;]</value>
+      <webElementGuid>8a0a85fa-bd34-42c8-bb9d-b510831c1a2c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[4]/div[2]/div/div[2]/button/div</value>
+      <webElementGuid>2a66de8f-4219-4974-8dbf-09fde7e729a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk dengan'])[1]/following::div[2]</value>
+      <webElementGuid>f87a1a6c-630e-401c-bacb-68591e6eedfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© 2020 Bioskop Online dan semua perusahaan terkait.Hak cipta dilindungi undang-undang.'])[1]/following::div[9]</value>
+      <webElementGuid>2bdc7297-8b8e-44c1-a924-2f323dc98ee5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Facebook'])[1]/preceding::div[1]</value>
+      <webElementGuid>b804aa44-4236-40b5-9a2f-e0a5bca1800b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Atau'])[1]/preceding::div[2]</value>
+      <webElementGuid>28e2882f-8f3b-4cb2-b071-4e7415b4ea82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Google']/parent::*</value>
+      <webElementGuid>01d36c18-7285-4033-b14c-c15e10d07e3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div</value>
+      <webElementGuid>b695178d-73ac-4dc2-848b-643948aa7207</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Google' or . = 'Google')]</value>
+      <webElementGuid>3b61ad2b-a9de-4368-9029-89f6ca065a76</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

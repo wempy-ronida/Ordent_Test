@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Register Menggunakan Email (Ada Field Mandatory yang Tidak Diisi)</description>
+   <name>Register with Email (Missing Mandatory Field)</name>
+   <tag>Register</tag>
+   <comment></comment>
+   <testCaseGuid>7efafa40-9471-4d81-b507-13fda07c742c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>31343b0a-c832-4bc9-8e4b-f325f17d62d1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>31343b0a-c832-4bc9-8e4b-f325f17d62d1</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

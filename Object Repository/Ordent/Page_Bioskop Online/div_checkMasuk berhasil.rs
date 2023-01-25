@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_checkMasuk berhasil</name>
+   <tag></tag>
+   <elementGuidId>ffce6a6f-5f78-44f9-bf0b-ba6bea8f3b86</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.toasted.custom-toast.toasted-primary.default</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tdnIhVlsN']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>11f407cc-a38c-47cf-99ec-44cdcb8e7943</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>toasted custom-toast toasted-primary default</value>
+      <webElementGuid>6561da47-a0e2-4c8d-9d98-da90413412e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>checkMasuk berhasil</value>
+      <webElementGuid>21d5dd46-97e8-4175-b32d-a919a1eaf681</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tdnIhVlsN&quot;)/div[@class=&quot;toasted custom-toast toasted-primary default&quot;]</value>
+      <webElementGuid>71107bdc-83e3-48b5-969b-c48c3d8d25f6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tdnIhVlsN']/div</value>
+      <webElementGuid>8a12fd30-158f-409d-9fe3-78c20f6de3db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Akun'])[1]/following::div[2]</value>
+      <webElementGuid>b5158d72-cafc-428f-afc2-ca0ad92b07c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Film Saya'])[2]/following::div[2]</value>
+      <webElementGuid>f8f49ea8-650e-4332-aea4-d84e6e1969c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Masuk berhasil']/parent::*</value>
+      <webElementGuid>0efcd7f9-3de2-4607-9c37-21c8c2ed7c4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body/div[2]/div</value>
+      <webElementGuid>b8111af6-bb66-4066-8e48-79ede4497ba9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'checkMasuk berhasil' or . = 'checkMasuk berhasil')]</value>
+      <webElementGuid>1a138c22-c6e5-4961-b8c7-151cc5c514bc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

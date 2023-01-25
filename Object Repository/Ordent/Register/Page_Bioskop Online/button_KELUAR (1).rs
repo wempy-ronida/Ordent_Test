@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_KELUAR (1)</name>
+   <tag></tag>
+   <elementGuidId>05f24d9a-a01b-4fd9-86e0-6b1afa0b5797</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.text-sm.font-bold.mr-5</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4370af09-37a5-4c4f-b51e-64ddbe79b5df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-sm font-bold mr-5</value>
+      <webElementGuid>7af0ef4a-e18a-4b66-b2b5-aaa5fc308541</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+          KELUAR
+        </value>
+      <webElementGuid>58b88504-793a-4bc0-8630-bda2ed2280f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;bg-blue-1 flex flex-col min-h-screen text-white font-montserrat&quot;]/div[@class=&quot;flex-1 flex flex-col pb-24&quot;]/div[@class=&quot;flex desktop:items-center justify-center flex-1 py-8&quot;]/div[@class=&quot;text-white layout-menu-wrapper pb-9&quot;]/div[@class=&quot;vm--container scrollable&quot;]/div[@class=&quot;vm--modal mb-50px modal-classes mx-auto center&quot;]/div[@class=&quot;text-white bg-blue-1 border border-opacity-20 rounded-2xl p-5 w-80 mobile:w-full&quot;]/div[@class=&quot;flex justify-end text-blue-4&quot;]/button[@class=&quot;text-sm font-bold mr-5&quot;]</value>
+      <webElementGuid>95b784ee-5f35-4bd1-b2f5-9f8f16868efa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[2]/div/div/div[5]/div[2]/div/div[2]/button</value>
+      <webElementGuid>84ecf52a-0746-4b79-bc4a-321fd4403f3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yakin ingin keluar ?'])[1]/following::button[1]</value>
+      <webElementGuid>455deaf8-9bda-4341-be5d-cd595c14eef8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keluar'])[1]/following::button[1]</value>
+      <webElementGuid>535b54e1-6525-413b-8a24-e30ffe563fc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TIDAK'])[1]/preceding::button[1]</value>
+      <webElementGuid>1c8fc2de-9647-40ed-95f5-69f1ad6bc080</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pusat Bantuan'])[3]/preceding::button[2]</value>
+      <webElementGuid>417f3942-6548-4694-a020-3fb9bab75183</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/div/div[2]/button</value>
+      <webElementGuid>0e3f21bb-cb39-43ee-b5dd-14ca1743880b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '
+          KELUAR
+        ' or . = '
+          KELUAR
+        ')]</value>
+      <webElementGuid>40a1b045-6bb0-4d2c-b0d0-227b9a1453a1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Register with facebook</name>
+   <tag>Register</tag>
+   <comment></comment>
+   <testCaseGuid>aa4bd6b1-fdaa-4716-b242-d98ce81cc76a</testCaseGuid>
+</TestCaseEntity>

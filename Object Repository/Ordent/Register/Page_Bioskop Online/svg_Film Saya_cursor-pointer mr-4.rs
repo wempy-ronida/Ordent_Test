@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Film Saya_cursor-pointer mr-4</name>
+   <tag></tag>
+   <elementGuidId>30d5d024-518f-43df-8fe6-a1ccf8befafa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Film Saya'])[1]/following::*[name()='svg'][2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>f118fc30-651b-4700-938b-e6a4026b3d9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>20</value>
+      <webElementGuid>50dfb59d-a613-4f9b-92db-e08fa4c653c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>20</value>
+      <webElementGuid>21b488f9-31cb-4b98-97e5-047b6aa3e69d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 22 20</value>
+      <webElementGuid>7c21c891-be72-42fc-9f01-b57b109e386f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>757f6627-1346-4910-a63d-68d05f4e26dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cursor-pointer mr-4</value>
+      <webElementGuid>9c413558-7e98-4f7f-b5b8-a60dbf408db9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>white</value>
+      <webElementGuid>351ccddd-b3ef-4915-bc44-3ddc89619335</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;bg-blue-1 flex flex-col min-h-screen text-white font-montserrat&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;w-full bg-blue-2 transition-all duration-300 ease-in-out header z-40   top-0 left-0&quot;]/div[@class=&quot;header container mx-auto py-4&quot;]/div[@class=&quot;flex justify-between&quot;]/div[@class=&quot;flex items-center text-white&quot;]/svg[@class=&quot;cursor-pointer mr-4&quot;]</value>
+      <webElementGuid>20465bf3-7ae8-4261-9055-8ae09c1241ef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Film Saya'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>23988fb2-d32a-43d2-93fd-067b10a78e47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beranda'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>7948e9fa-452f-4b53-8b9c-bbe98afcc8c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Akun Saya'])[1]/preceding::*[name()='svg'][3]</value>
+      <webElementGuid>132246dc-c045-4ee8-af3e-fb57c45c9ba8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wempy Ronida'])[1]/preceding::*[name()='svg'][4]</value>
+      <webElementGuid>ad572618-1489-426d-b530-6cdca4bd47f4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

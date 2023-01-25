@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>dfd00e4e-f145-44ee-8fb9-3ee67c0222f5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>a0c5d456-6b14-48ef-916e-f3b54350cbba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill-rule</name>
+      <type>Main</type>
+      <value>evenodd</value>
+      <webElementGuid>002e3499-e563-4098-ad69-1496ec82b296</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>clip-rule</name>
+      <type>Main</type>
+      <value>evenodd</value>
+      <webElementGuid>7979b8bb-8699-48e5-9969-8ce25e717255</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M13.294 5.60536C13.294 8.26612 10.9391 10.3996 8 10.3996C5.0619 10.3996 2.70601 8.26612 2.70601 5.60536C2.70601 2.9446 5.0619 0.812012 8 0.812012C10.9391 0.812012 13.294 2.9446 13.294 5.60536ZM8 18.9307C3.66237 18.9307 0 18.292 0 15.8278C0 13.3628 3.68538 12.7467 8 12.7467C12.3386 12.7467 16 13.3854 16 15.8496C16 18.3147 12.3146 18.9307 8 18.9307Z</value>
+      <webElementGuid>831f96c7-43c5-4b97-bde7-be6a8d906dd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;bg-blue-1 flex flex-col min-h-screen text-white font-montserrat&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;w-full bg-blue-2 transition-all duration-300 ease-in-out header z-40   top-0 left-0&quot;]/div[@class=&quot;header container mx-auto py-4&quot;]/div[@class=&quot;flex justify-between&quot;]/div[@class=&quot;flex items-center text-white&quot;]/button[@class=&quot;bg-blue-4 p-2 rounded-full mobile:hidden&quot;]/svg[@class=&quot;cursor-pointer&quot;]/path[1]</value>
+      <webElementGuid>3ee3872e-7ee8-419f-9171-da647c0824e2</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

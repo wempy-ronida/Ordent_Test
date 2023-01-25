@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>9fb49ddf-cc04-4706-a3bf-61e1d900b5a0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>bf0dba07-9fb7-4204-b1d9-06c85635b78c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M16.5766 3.94141L3.43164 17.0864</value>
+      <webElementGuid>7a1c9ce1-971d-4f0f-b4ae-56751ff13126</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke-width</name>
+      <type>Main</type>
+      <value>1.5</value>
+      <webElementGuid>48f6e1a6-1dfe-461e-9052-8fd8ed47324f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke-linecap</name>
+      <type>Main</type>
+      <value>round</value>
+      <webElementGuid>e6380059-15ef-424c-9b28-e66f25563cbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke-linejoin</name>
+      <type>Main</type>
+      <value>round</value>
+      <webElementGuid>06d78e76-246c-498f-9f84-d01c862590ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;bg-blue-1 flex flex-col min-h-screen text-white font-montserrat&quot;]/div[@class=&quot;vm--container&quot;]/div[@class=&quot;vm--modal modal-classes full-height mx-auto&quot;]/div[@class=&quot;text-white layout-login-wrapper overflow-auto&quot;]/form[@class=&quot;mb-6&quot;]/div[@class=&quot;border border-opacity-50 rounded-full px-7 py-3 mb-4&quot;]/div[@class=&quot;mb-4 input-signin&quot;]/label[1]/div[@class=&quot;relative&quot;]/p[@class=&quot;absolute top-0 right-0 h-full flex items-center justify-center mr-1 text-white&quot;]/svg[1]/path[5]</value>
+      <webElementGuid>49bf1050-7eb3-41ba-b6d6-5c145664e514</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

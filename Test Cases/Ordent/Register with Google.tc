@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Register with Google</name>
+   <tag>Register</tag>
+   <comment></comment>
+   <testCaseGuid>a2608c20-92e2-480a-89ab-1a605cf99e1e</testCaseGuid>
+</TestCaseEntity>

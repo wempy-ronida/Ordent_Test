@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Register Menggunakan Email (Nomor Ponsel Tidak Valid)</name>
+   <tag>Register</tag>
+   <comment></comment>
+   <testCaseGuid>d4a0af5a-2cbc-4b32-8d04-c8977c1dcdff</testCaseGuid>
+</TestCaseEntity>

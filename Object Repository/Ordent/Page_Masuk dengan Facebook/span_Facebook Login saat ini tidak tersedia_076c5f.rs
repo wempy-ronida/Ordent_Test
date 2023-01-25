@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Facebook Login saat ini tidak tersedia_076c5f</name>
+   <tag></tag>
+   <elementGuidId>a66e39cf-82be-4a07-9ab1-5db4361b30b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.x193iq5w.xeuugli.x13faqbe.x1vvkbs.x1xmvt09.x1lkfr7t.x1lbecb7.xo1l8bm.xi81zsa</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>40fed68f-1edd-4a8a-97c5-c07d8af42116</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>x193iq5w xeuugli x13faqbe x1vvkbs x1xmvt09 x1lkfr7t x1lbecb7 xo1l8bm xi81zsa</value>
+      <webElementGuid>d98ae9a9-d99e-4535-9a8a-d2830198e48e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Facebook Login saat ini tidak tersedia untuk aplikasi ini.</value>
+      <webElementGuid>ed21421e-b615-497d-8fb0-c5c03c2577b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mount_0_0_4t&quot;)/div[1]/div[1]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z&quot;]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z&quot;]/div[@class=&quot;x78zum5 xdt5ytf x1n2onr6 x1ja2u2z&quot;]/div[@class=&quot;x78zum5 xdt5ytf x1n2onr6&quot;]/div[@class=&quot;x78zum5 xdt5ytf x1n2onr6 xat3117 xxzkxad&quot;]/div[@class=&quot;x6s0dn4 x443n21 x78zum5 xl56j7k xt3ofjt&quot;]/div[@class=&quot;x1lq5wgf xgqcy7u x30kzoy x9jhf4c xofhs1l x14hiurz x78zum5 xw2csxc x1odjw0f x1m7g9aj x1qu1lpg&quot;]/div[@class=&quot;x14hiurz x78zum5 xdt5ytf x1iyjqo2 xexx8yu x1pi30zi x18d9i69 x1swvt13 x2b8uid&quot;]/div[@class=&quot;xrlsmeg x6prxxf xkrivgy x1gryazu&quot;]/div[@class=&quot;xwxc41k&quot;]/div[@class=&quot;x78zum5 xdt5ytf xz62fqu x16ldp7u&quot;]/div[@class=&quot;xu06os2 x1ok221b&quot;]/span[@class=&quot;x193iq5w xeuugli x13faqbe x1vvkbs x1xmvt09 x1lliihq x1s928wv xhkezso x1gmr53x x1cpjm7i x1fgarty x1943h6x xudqn12 x3x7a5m x6prxxf xvq8zen xo1l8bm xzsf02u x2b8uid&quot;]/span[@class=&quot;x193iq5w xeuugli x13faqbe x1vvkbs x1xmvt09 x1lkfr7t x1lbecb7 xo1l8bm xi81zsa&quot;]</value>
+      <webElementGuid>5630b6e8-3c83-4edc-816e-e03d7d0f9cb3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mount_0_0_4t']/div/div/div/div/div/div/div/div/div/div/div[3]/div[2]/div/div/span/span</value>
+      <webElementGuid>6189574c-2b12-4990-9578-764d644e7ef0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fitur Tidak Tersedia'])[1]/following::span[1]</value>
+      <webElementGuid>f58fefb2-9938-44a2-9be3-55780de3288e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[1]/preceding::span[1]</value>
+      <webElementGuid>8a3ca732-ec15-404e-9209-96facabf573f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Facebook Login saat ini tidak tersedia untuk aplikasi ini.']/parent::*</value>
+      <webElementGuid>75b615d7-caf7-463d-80d2-ea4cebe4836f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span</value>
+      <webElementGuid>07e17803-3f57-4053-a55b-45cf56882c8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Facebook Login saat ini tidak tersedia untuk aplikasi ini.' or . = 'Facebook Login saat ini tidak tersedia untuk aplikasi ini.')]</value>
+      <webElementGuid>908a28f7-2c4b-455b-a3ff-fde7394e4ab6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

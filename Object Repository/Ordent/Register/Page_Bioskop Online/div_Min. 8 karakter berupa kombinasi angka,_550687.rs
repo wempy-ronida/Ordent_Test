@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Min. 8 karakter berupa kombinasi angka,_550687</name>
+   <tag></tag>
+   <elementGuidId>faf29c54-2c59-4410-86c0-ed24b99bb9fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.text-xxs.opacity-50.text-white</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[4]/div[2]/div/form/div[4]/label/div[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>63f35d12-7525-4638-ab91-60921eab7d9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-xxs opacity-50 text-white</value>
+      <webElementGuid>29119d60-e077-453f-b50e-e901f9f46825</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Min. 8 karakter berupa kombinasi angka, huruf besar dan huruf kecil</value>
+      <webElementGuid>5ccae2b8-7894-477a-b503-e9bd417b318c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;bg-blue-1 flex flex-col min-h-screen text-white font-montserrat&quot;]/div[@class=&quot;vm--container&quot;]/div[@class=&quot;vm--modal modal-classes mx-auto&quot;]/div[@class=&quot;flex flex-col h-full overflow-auto rounded-2xl desktop:w-fit-content bg-blue-1 p-8 mobile:w-full&quot;]/form[1]/div[@class=&quot;mb-4&quot;]/label[1]/div[@class=&quot;text-xxs opacity-50 text-white&quot;]</value>
+      <webElementGuid>5fafb6dd-c9fa-4df0-9764-aac842568071</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[4]/div[2]/div/form/div[4]/label/div[4]</value>
+      <webElementGuid>1bfa2c87-357d-4572-bfe1-479ea7c7ffb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kata sandi harus mengandung 1 angka, 1 huruf besar dan 1 huruf kecil.'])[1]/following::div[1]</value>
+      <webElementGuid>c73150dd-053a-421a-a455-f99c73476a00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::div[3]</value>
+      <webElementGuid>def103ac-db21-4c5c-bc1c-245f1cd3f444</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lanjutkan'])[1]/preceding::div[1]</value>
+      <webElementGuid>0c19fbf8-9cc3-4578-9396-6529b06549f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/div[4]</value>
+      <webElementGuid>e8959eb0-02c2-4c54-af92-5da03169a587</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Min. 8 karakter berupa kombinasi angka, huruf besar dan huruf kecil' or . = 'Min. 8 karakter berupa kombinasi angka, huruf besar dan huruf kecil')]</value>
+      <webElementGuid>98e1b0a8-3d9d-4280-b0a4-eaa108c5bba3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

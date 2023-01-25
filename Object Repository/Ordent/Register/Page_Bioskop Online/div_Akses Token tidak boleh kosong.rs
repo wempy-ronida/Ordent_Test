@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Akses Token tidak boleh kosong</name>
+   <tag></tag>
+   <elementGuidId>899e7530-0c00-4d32-81a7-11b6e7b35c46</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.text-xxs.font-bold</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[2]/div/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>36400c08-b8e4-4261-a08f-9a3ad460588c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-xxs font-bold</value>
+      <webElementGuid>0e27a7c9-9b78-4c4d-bcdd-8580704b78f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Akses Token tidak boleh kosong.</value>
+      <webElementGuid>e3e4a2ed-45d3-463f-bb19-c94a3684402b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;bg-blue-1 flex flex-col min-h-screen text-white font-montserrat&quot;]/div[@class=&quot;flex-1 flex flex-col pb-24&quot;]/div[@class=&quot;flex items-center justify-center w-screen flex-1&quot;]/div[@class=&quot;flex flex-col items-center&quot;]/div[@class=&quot;flex items-center p-2 bg-red-secondary border-red-secondary border-opacity-50 rounded-lg mb-6 w-96 mobile:w-72&quot;]/div[@class=&quot;w-11/12&quot;]/div[@class=&quot;text-xxs font-bold&quot;]</value>
+      <webElementGuid>fcfee5cd-2004-4872-b0b4-3c1bd1c9f0f2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[2]/div/div/div/div/div</value>
+      <webElementGuid>bef0a0af-5d66-4413-802e-ee605ad60b8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[1]/following::div[6]</value>
+      <webElementGuid>c98cc14b-5e8c-4eb0-8c2c-6b6e77860554</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar'])[1]/following::div[6]</value>
+      <webElementGuid>060d0986-47b6-497a-ad2e-36755ee04a2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Halaman Utama'])[1]/preceding::div[2]</value>
+      <webElementGuid>bae59e33-a3b1-4ab2-8917-36fd2c1405b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div</value>
+      <webElementGuid>891409c8-72b8-4bfc-bb03-7bd089523ba5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Akses Token tidak boleh kosong.' or . = 'Akses Token tidak boleh kosong.')]</value>
+      <webElementGuid>a0935c23-0752-4e28-835e-70cbd9281f32</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

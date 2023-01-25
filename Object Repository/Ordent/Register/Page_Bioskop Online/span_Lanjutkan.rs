@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Lanjutkan</name>
+   <tag></tag>
+   <elementGuidId>55122833-2731-4d86-95b4-2ee6d2a7311b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[4]/div[2]/div/form/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>776ca041-4fc4-4d6e-b042-d1e99ee01321</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-bold flex align-middle items-center</value>
+      <webElementGuid>e6bc0fb3-215d-44cb-9c23-2024b573e411</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Lanjutkan </value>
+      <webElementGuid>08a55cd5-d838-4636-a2c2-0e9323da515a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;bg-blue-1 flex flex-col min-h-screen text-white font-montserrat&quot;]/div[@class=&quot;vm--container&quot;]/div[@class=&quot;vm--modal modal-classes mx-auto&quot;]/div[@class=&quot;flex flex-col h-full overflow-auto rounded-2xl desktop:w-fit-content bg-blue-1 p-8 mobile:w-full&quot;]/form[1]/button[@class=&quot;w-36 mobile:w-24 mobile:py-1 flex items-center justify-center desktop:py-3 py-1 w-full mb-2 mt-11 mobile:w-full bg-blue-4 text-blue-1 text-button&quot;]/span[@class=&quot;font-bold flex align-middle items-center&quot;]</value>
+      <webElementGuid>46b8da95-a513-4ac0-afad-931b3aafee69</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[4]/div[2]/div/form/button/span</value>
+      <webElementGuid>7d689449-714f-49ee-b8be-d3823c8437f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Min. 8 karakter berupa kombinasi angka, huruf besar dan huruf kecil'])[1]/following::span[1]</value>
+      <webElementGuid>27cffb34-06d6-4e0d-bdf6-f14f594f6756</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::span[1]</value>
+      <webElementGuid>e7743534-5286-4d4f-99a2-fb9af159d575</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[2]/preceding::span[1]</value>
+      <webElementGuid>5af1438f-9c5b-48fc-a7b2-a20c605e3142</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Lanjutkan']/parent::*</value>
+      <webElementGuid>0a25e671-77aa-4979-acdf-971e4f6372f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/button/span</value>
+      <webElementGuid>6f0b7815-f09c-49e1-83d5-94fb96d9e760</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Lanjutkan ' or . = ' Lanjutkan ')]</value>
+      <webElementGuid>637cc1e3-cfd9-4006-ae7e-dbb8a7ffd494</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

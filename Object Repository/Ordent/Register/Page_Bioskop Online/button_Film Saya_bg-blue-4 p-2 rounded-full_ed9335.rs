@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Film Saya_bg-blue-4 p-2 rounded-full_ed9335</name>
+   <tag></tag>
+   <elementGuidId>9b1266e2-4544-4a53-bc4b-1a4fa2f8fddf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div/div[2]/div/div/div/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8f205bce-3e76-4bd1-8e44-1c8e1a6e5d60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-blue-4 p-2 rounded-full mobile:hidden</value>
+      <webElementGuid>d79c7034-7958-4ef5-8406-7f68c38c6a19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;bg-blue-1 flex flex-col min-h-screen text-white font-montserrat&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;w-full bg-blue-2 transition-all duration-300 ease-in-out header z-40   top-0 left-0&quot;]/div[@class=&quot;header container mx-auto py-4&quot;]/div[@class=&quot;flex justify-between&quot;]/div[@class=&quot;flex items-center text-white&quot;]/button[@class=&quot;bg-blue-4 p-2 rounded-full mobile:hidden&quot;]</value>
+      <webElementGuid>e85bba96-090d-4770-8f64-97f7d134cc99</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div/div[2]/div/div/div/button[2]</value>
+      <webElementGuid>6265b914-43bf-4196-b1d5-65086d7a4b77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Film Saya'])[1]/following::button[1]</value>
+      <webElementGuid>519e41ea-4beb-4412-b0c7-5798f5f481ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beranda'])[1]/following::button[2]</value>
+      <webElementGuid>615058b9-58d4-4455-bbb8-cec422934b22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Drama'])[1]/preceding::button[1]</value>
+      <webElementGuid>39ba1941-e462-44dd-b7d7-fca327fd51b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>16ce0937-5877-4ac8-8a1e-42ffbe59f6d8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Masuk</name>
+   <tag></tag>
+   <elementGuidId>b7ed235c-3874-4e3b-975d-1dba5894ee99</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div/div[2]/div/div/div/button[3]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>75912620-bbb1-4f60-adbc-3774805e353b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-bold flex align-middle items-center</value>
+      <webElementGuid>f650f003-62f9-45dd-ba86-9129fb1e20af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Masuk </value>
+      <webElementGuid>66c9f188-ee1d-4c33-b5cb-b46bc7b30eac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;bg-blue-1 flex flex-col min-h-screen text-white font-montserrat&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;w-full bg-blue-2 transition-all duration-300 ease-in-out header z-40   top-0 left-0&quot;]/div[@class=&quot;header container mx-auto py-4&quot;]/div[@class=&quot;flex justify-between&quot;]/div[@class=&quot;flex items-center text-white&quot;]/button[@class=&quot;w-36 mobile:w-24 mobile:py-1 flex items-center justify-center desktop:py-3 py-1 bg-blue-4 text-blue-1 small text-button-small&quot;]/span[@class=&quot;font-bold flex align-middle items-center&quot;]</value>
+      <webElementGuid>61179d3c-1bdc-42bf-a42f-f815cbf9108b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div/div[2]/div/div/div/button[3]/span</value>
+      <webElementGuid>10b9199e-7ae1-4703-8304-42ac3d1f2860</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar'])[1]/following::span[1]</value>
+      <webElementGuid>c703bd5b-4e65-48ac-a61a-3116bd689346</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Film Saya'])[1]/following::span[2]</value>
+      <webElementGuid>c654af29-3d65-419f-bcb0-8fe238d6a1ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Drama'])[1]/preceding::span[1]</value>
+      <webElementGuid>bfe1b60c-c435-4a23-b943-608f9179bc00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[3]/span</value>
+      <webElementGuid>c8639959-3936-445b-8c6b-8d5529836245</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Masuk ' or . = ' Masuk ')]</value>
+      <webElementGuid>7c0650ef-7288-4ce9-8d32-b07cc4e86432</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

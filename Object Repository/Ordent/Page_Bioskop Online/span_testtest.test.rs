@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_testtest.test</name>
+   <tag></tag>
+   <elementGuidId>29b8b75b-a7c0-4d24-90b6-70456a657b06</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.px-6.py-2.text-white.bg-red-secondary.border.border-red-secondary.border-opacity-50.rounded-full.flex.justify-center.mb-4 > span.font-bold</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[5]/div[2]/div/div[2]/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>65c66840-1be7-4fa8-8ce7-f9eefd823b04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-bold</value>
+      <webElementGuid>4d07dfaa-c753-4682-8975-af53f938c7b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>te**st@test.test</value>
+      <webElementGuid>fd7d98ff-86d5-41e3-82f3-e1d7fc0e0383</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;bg-blue-1 flex flex-col min-h-screen text-white font-montserrat&quot;]/div[@class=&quot;vm--container&quot;]/div[@class=&quot;vm--modal modal-classes mx-auto&quot;]/div[@class=&quot;text-white layout-verify-wrapper&quot;]/div[@class=&quot;flex w-full flex-col items-center&quot;]/div[@class=&quot;px-6 py-2 text-white bg-red-secondary border border-red-secondary border-opacity-50 rounded-full flex justify-center mb-4&quot;]/span[@class=&quot;font-bold&quot;]</value>
+      <webElementGuid>c3091a03-8f3d-4d37-809c-318bea8373c1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[5]/div[2]/div/div[2]/div[2]/span</value>
+      <webElementGuid>bfb728a6-c6fe-4ca2-a8ba-8b701df208a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Kamu belum terverifikasi'])[1]/following::span[1]</value>
+      <webElementGuid>77dc2f6d-72a0-4933-a28f-54d77b20b8d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Verifikasi'])[1]/following::span[1]</value>
+      <webElementGuid>7a9b5076-3e29-41cf-a22c-8580da55b860</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lakukan verifikasi email untuk bisa masuk ke akun bioskop online'])[1]/preceding::span[1]</value>
+      <webElementGuid>ec7a2f51-2bc8-4bd3-9686-5c181000123c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Verifikasi'])[2]/preceding::span[1]</value>
+      <webElementGuid>007e6cf5-8c24-452b-960e-a6a8731faa61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/span</value>
+      <webElementGuid>aeeb7b77-2143-4758-ab55-4c8e9bb85d1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'te**st@test.test' or . = 'te**st@test.test')]</value>
+      <webElementGuid>653940de-01f3-4df4-80ae-3c2dfa6b8cdb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
