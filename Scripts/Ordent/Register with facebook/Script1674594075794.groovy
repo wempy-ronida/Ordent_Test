@@ -17,6 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+'fitur belum bisa digunakan'
 WebUI.openBrowser('https://bioskoponline.com/')
 
 WebUI.click(findTestObject('Object Repository/Ordent/Register/Page_Bioskop Online/span_Daftar'))
